@@ -1,1 +1,1 @@
-## Open Source Educaiton Glossary
+## Open Source Education Glossary
