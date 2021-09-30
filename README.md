@@ -15,3 +15,4 @@ Likely you will have several such audiences:
 
 Each of those can contribute different things.....
 That will drive your Open Source Education project read me structure.
+Getting feedback from other educators there is crucial.
