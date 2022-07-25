@@ -1,1 +1,8 @@
-## Open Source Education Glossary
+## About
+We are a small, emerging group of Montessori practitioners, scholars, archivists, and technologists interested in creating an open-access vocabulary of Montessori terms. We believe that a Montessori thesaurus must be the collective, international, and iterative work of Montessori practitioners, trainers, and scholars. Subject headings hold great power, and a community-based thesaurus development approach has the potential to produce a controlled vocabulary that provides the broadest access and knowledge equity.
+The Montessori Thesaurus is a work in progress and we welcome suggestions for new terms to be added or changes to be made within the vocabulary. A Montessori Thesaurus Working Group will oversee the upkeep of the vocabulary and will consider all proposed terms and changes on a quarterly basis. The Montessori Thesaurus development project is supported by the Center for Montessori Studies at the University of Hartford.
+
+## Our Mission and Vision
+Through collective efforts across an interwoven network, we pursue our mission of co-creating and maintaining an open-access controlled vocabulary inclusive of Montessori terms. The Montessori Thesaurus is an evolving, iterative co-construction project grounded in shared knowledge and authority. As a controlled vocabulary of terms used to describe Montessori information resources using terminology from the Montessori domain, the thesaurus aims to serve as a companion to broad subject term vocabularies. Our mission is to improve the discoverability of Montessori resources. We envision an international, multilingual linked data vocabulary of Montessori terms that enhances access to Montessori resources within cultural institutions and community archives.
+
+Learn more at www.montessorithesaurus.org
