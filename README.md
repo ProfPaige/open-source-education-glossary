@@ -5,4 +5,4 @@ The Montessori Thesaurus is a work in progress and we welcome suggestions for ne
 ## Our Mission and Vision
 Through collective efforts across an interwoven network, we pursue our mission of co-creating and maintaining an open-access controlled vocabulary inclusive of Montessori terms. The Montessori Thesaurus is an evolving, iterative co-construction project grounded in shared knowledge and authority. As a controlled vocabulary of terms used to describe Montessori information resources using terminology from the Montessori domain, the thesaurus aims to serve as a companion to broad subject term vocabularies. Our mission is to improve the discoverability of Montessori resources. We envision an international, multilingual linked data vocabulary of Montessori terms that enhances access to Montessori resources within cultural institutions and community archives.
 
-Learn more at www.montessorithesaurus.org
+Learn more at wiki.montessorithesaurus.org
